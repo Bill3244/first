@@ -1,3 +1,5 @@
 create feature/1.0 locally now pushing to create remote branch on origin
 
 using gitflow to auto finish feature and merge into the develop branch
+
+created release branch auto thru gitflow
